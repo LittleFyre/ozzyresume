@@ -1,2 +1,2 @@
 # ozzyresume
-a workshop resume sample
+a sample resume page
